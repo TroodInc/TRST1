@@ -1,4 +1,4 @@
-# Trood Tokensale Admin Tools
+# TRST1 Tools
 
 This repository contains scripts to manage Trood token sales using IPFS and off-chain poolfiles. It supports creating new sales, signing JSON poolfiles, verifying signatures, recording transactions, and querying user balances.
 
