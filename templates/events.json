@@ -1,0 +1,34 @@
+[
+    {
+      "type": "purchase",
+      "user_id": "alice@example.com",
+      "timestamp": "2025-08-17T10:30:00Z",
+      "tokens": 500,
+      "paid_out": false,
+      "tx_id": null
+    },
+    {
+      "type": "grant",
+      "user_id": "bob@example.com",
+      "timestamp": "2025-08-17T11:00:00Z",
+      "tokens": 300,
+      "paid_out": false,
+      "tx_id": null
+    },
+    {
+      "type": "buyback",
+      "user_id": "charlie@example.com",
+      "timestamp": "2025-08-17T12:15:00Z",
+      "tokens": 200,
+      "paid_out": true,
+      "tx_id": "tx1234"
+    },
+    {
+      "type": "buyback_fund_inc",
+      "user_id": "admin",
+      "timestamp": "2025-08-17T13:00:00Z",
+      "amount_usdt": 1000,
+      "notes": "Added USDT to buyback pool"
+    }
+  ]
+  

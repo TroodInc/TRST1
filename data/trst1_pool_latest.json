@@ -1,0 +1,34 @@
+{
+    "version": "1.0",
+    "token": {
+      "symbol": "TRST1",
+      "name": "TRST Buyback Token v1",
+      "initial_price_usdt": 1.0,
+      "growth_rate_apy": 100,
+      "first_sale_timestamp": null,
+      "price_status": "idle"
+    },
+    "pool": {
+      "total_token_cap": 997000,
+      "sold_tokens": 0,
+      "available_tokens": 997000,
+      "usdt_collected": 0,
+      "usdt_in_buyback_pool": 0
+    },
+    "status": {
+      "sale_open": false,
+      "whitelist_only": true,
+      "blue_button_mode": false,
+      "red_button_triggered": false,
+      "buyback_complete": false
+    },
+    "activity_log": [],
+    "offchain_holders_ref": null,
+    "notes": "Zero-day initialized. No tokens sold yet.",
+    "meta": {
+      "previous_cid": null,
+      "last_updated": "2025-08-02T01:56:00Z",
+      "source": "https://trood.com/tokensale"
+    }
+  }
+  

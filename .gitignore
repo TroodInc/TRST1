@@ -1,0 +1,17 @@
+# Ignore private keys and sensitive folders
+/private/
+/keys/private.pem
+
+# Node modules
+node_modules/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: environment files
+.env
+.env.json

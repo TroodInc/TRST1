@@ -1,0 +1,39 @@
+{
+  "version": "1.0",
+  "token": {
+    "symbol": "TRST1",
+    "name": "TRST Buyback Token v1",
+    "initial_price_usdt": 1,
+    "growth_rate_apy": 100,
+    "first_sale_timestamp": null,
+    "price_status": "idle"
+  },
+  "pool": {
+    "total_token_cap": 997000,
+    "sold_tokens": 0,
+    "available_tokens": 997000,
+    "usdt_collected": 0,
+    "usdt_in_buyback_pool": 0
+  },
+  "status": {
+    "sale_open": false,
+    "whitelist_only": true,
+    "blue_button_mode": false,
+    "red_button_triggered": false,
+    "buyback_complete": false
+  },
+  "activity_log": [],
+  "offchain_holders_ref": null,
+  "notes": "Zero-day initialized. No tokens sold yet.",
+  "meta": {
+    "previous_cid": null,
+    "last_updated": "2025-08-08T01:04:24.021Z",
+    "source": "https://trood.com/tokensale",
+    "signature": {
+      "signed_by": "trood.com",
+      "signature": "PekQC2obarE8oyI8EZJouZp3acSZ1o9XS32rF6dwknAPxhGHNd+7awyLIJsKhJzpZtkx2VMsjJry3BYemjSwQyTIvAp0p7rhyDPvwDllp2odGW9Xur4/zKkTOO7m3JeBgUg4zexCGu5kMn4J7HYMQnF/DYJ4D+Mbz5tCyPZgi/f57USjGfg9b7A0F9W4v7NPRaVUwDuvyMtCWZZjj/dsKhW9+JXryLeE+WhzSMpEmY893H6z7SgtFSMnyOOB63aiHDQJ7dXg93S3wl1etr46ua3gxMEHfDVie3jmRf+oTkYFBrM36fV0v+P0kq/n0gUq78if05MLB0BhYTAC8KyrlNW5b0sCUxbk4GiJFAJBlL2nmjJR5hHq+NsPDlJle0PE+Par1BTV/FVnFPXkhHzwLz26lAfMT/54eR4G3iAdzkRgFLD/xmoCRn9Mt8x9QjH3+uLmNW+avP86Nqpxa6f0dYIx3tJtaoHxMjs9jof+kveevvaiGPvtheWUfFb3gl+116pBsxWpURkhQCkMB25qHIZhpBhJH38l1WoR/9kZsVOJGK9R0ZroFW4LOwJSrHK0zSKLRsVph/c/4VGLEnCvQb4lq/RHcIb9qQu912vTxILFmPukaNLWkN4gw8riVoE1tr0CZgpH4jspFRzrlZwevAyxymYLHH9ANct/mHTAk1E=",
+      "public_key": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAm3fUue9FNMpzNsXnL3VS\nJo+poCdZOsgQjEMwlOxB+ReOifRhNXaySdsicSBRmj++xyC66K5IELX1pww9/Wld\n4tCsTL3v7yR1F+fRcMXidHxNjtE4e0kSHZKQvqVsmB7A6F2+wR0Ee2vQ4xvQGPCw\nENPo6+Ybmgw5dJbMbKMiufx3EAvwDpvM1LJU4/+UXl47prTG5wz8zRbB3UsyXbvc\ninGgignOaP+bMQvn40tPzQ2Y9tm7vg0YBq5hESp6NKahkI2P7+UcLLjVbe2qX+32\njDHlwgdveIHzR7YEwdEhQAnGcQkGNGtumWo/041SRkKsCFnn9beqowit1mRnQxXD\nakLkAMhKT1o+FAG8ILh6WtoZ8qE4kUJwgUbFSMr5F2bQWZWmOiCAfpSp+ZTVIPGp\nH9nwiW6dfjiAM9oWxqS22ZVrb4zqoDcRZ5gQMv3hPNgIBN5D/BEJwPBn60hmF/rY\nM2GTvRnJW+4tqsxx3B0IzrNj6UCGXwGMMVM76MLKcjD/kKTDlOEpsWFe8AbUBqHS\nF0qd0EtBhiuD7w86KULKvHL7Z58FauhPXCt+g7EGlqiJNEWnD3nDT8fN7CTWGf1D\nJQURc4Olb255w+W64A+IB1t9hM8et6lJOSK6kyZFgrUCH4xgrl8nXA9jUEJHzwo2\nGk+tWuSnK5OSIBqnWGHe+sMCAwEAAQ==\n-----END PUBLIC KEY-----\n",
+      "timestamp": "2025-08-08T01:04:24.021Z"
+    }
+  }
+}
