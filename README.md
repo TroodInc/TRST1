@@ -6,11 +6,11 @@ This repository contains scripts to manage Trood token sales using IPFS and off-
 
 ## Folder Structure
 
-/admin/        # Main admin scripts (create-sale, upload-poolfile, change-sale-state, etc.)
-/data/         # Storage for poolfiles, .env.json, and activity logs
-/tools/        # Utility scripts (check-user, check-cid, etc.)
-/keys/         # RSA keypairs for signing and verification
-/private/      # Optional: private keys or sensitive data
+/admin - Main admin scripts (create-sale, upload-poolfile, change-sale-state, etc.)\
+/data - Storage for poolfiles, .env.json, and activity logs\
+/tools - Utility scripts (check-user, check-cid, etc.)\
+/keys - RSA keypairs for signing and verification\
+/private - Optional: private keys or sensitive data\
 
 ---
 
